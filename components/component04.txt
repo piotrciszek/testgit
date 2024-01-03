@@ -1,1 +1,2 @@
 component04
+added missed text in commit1
