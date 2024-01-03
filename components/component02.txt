@@ -1,1 +1,2 @@
 component02 added from branch02
+new text
