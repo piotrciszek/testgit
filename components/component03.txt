@@ -1,1 +1,2 @@
 component03
+component 03 new text
