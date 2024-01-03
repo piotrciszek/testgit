@@ -1,1 +1,3 @@
-image01.txt
+image000.txt
+image001
+image003
