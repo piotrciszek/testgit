@@ -1,2 +1,3 @@
 component01
 changed in branch03
+some text added
